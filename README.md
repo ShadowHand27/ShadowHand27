@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mohd Shah
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Data Science and Machine Learning 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Machine Learning and Big Data
+- 🌱 I’m currently learning Data Engineering 
+- 💞️ I’m looking to collaborate on cool projects.
 - 📫 How to reach me ...
 
 <!---
